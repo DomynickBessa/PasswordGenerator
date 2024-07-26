@@ -1,0 +1,24 @@
+{
+  "name": "passwordgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DomynickBessa/PasswordGenerator.git"
+  },
+  "author": "Domynick Bessa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DomynickBessa/PasswordGenerator/issues"
+  },
+  "homepage": "https://github.com/DomynickBessa/PasswordGenerator#readme",
+  "dependencies": {
+    "nanoid": "^5.0.7"
+  },
+  "type": "module"
+}
